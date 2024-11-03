@@ -1,4 +1,4 @@
-# aroxu-plugin-template
+# aroxu-paper-plugin-template
 - This is a template of minecraft plugin, based on [PaperMC](https://papermc.io)
 ---
 ## Build
